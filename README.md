@@ -5,10 +5,21 @@
 
 ---
 
+# 特别感谢：
+
+### 博学多才，耐心细致的赵永瑞赵导，没有赵导，本小组也不可能完成实践任务
+
 ### 小组成员：
 
-- 组长：李骅萱
-- 组员：丁书润、贾泽鑫、高翔宇、倪松涛
+[李骅萱](https://github.com/18611756652)
+
+[倪松涛](https://github.com/sniffstherose)
+
+[贾泽鑫](https://github.com/lierhouzi)
+
+[丁书润](https://github.com/dingshurun)
+
+[高翔宇](https://github.com/gaoxiangyu666)
 
 ### 项目实践主题：
 
@@ -35,6 +46,26 @@
 
 ---
 
+### 简介：
+
+现阶段仅有简陋的手写汉字识别功能，有待进一步优化与开发
+
+### LICENSE:
+
+[LICENCE](https://github.com/Bistu-OSSDT-2022/Legendr/blob/dingshurun/LICENSE)
+
+
+
+### 项目实践报告：
+
+[欢迎下载项目实践报告](https://github.com/Bistu-OSSDT-2022/Legendr/blob/dingshurun/%E9%A1%B9%E7%9B%AE%E6%8A%A5%E5%91%8A(2).docx)
+
+### 项目Wiki：
+
+[Wiki](https://github.com/Bistu-OSSDT-2022/Legendr/wiki)
+
+---
+
 ### 注意事项：
 
 > 以下为几点注意事项
@@ -42,16 +73,9 @@
 1. 本项目基于python语言开发，你可能需要配置环境
 
    - python下载：[python](https://www.python.org/)
-   - 可能用到的模块：
 
 2. 代码中的注意事项：
 
-   - 数据处理
+   - 代码中的文件路径需根据自身数据集路径做修改
 
-   ~~~python
-   img="xxx\xxx"
-   txt="xxx\xxx"
-   ~~~
-
-   你需要输入文件路径，注意：img文件路径应为图片路径，txt为输出的数字文本文件路径，若不存在该文件，系统会创建一个该文件。
-
+   - 代码中的数据范围需要根据自身图片像素等做修改
