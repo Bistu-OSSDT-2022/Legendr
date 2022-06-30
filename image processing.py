@@ -15,6 +15,6 @@ def fun(img,txt):
         arr=np.asarray(read)
         np.savetxt(SavePath,arr,fmt="%d",delimiter='')
         #np.savetxt(SavePath, arr,fmt="%d")
-img="work/images"
-txt="work/dst"
+img="D:\33838\OneDrive - zppjx\桌面\images"
+txt="D:\33838\OneDrive - zppjx\桌面\txt"
 fun(img,txt)
