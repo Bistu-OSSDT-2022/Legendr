@@ -62,7 +62,7 @@
 
 ---
 
-# 项目实践报告：
+# 项目实践：
 
 [欢迎下载项目实践报告](https://github.com/Bistu-OSSDT-2022/Legendr/blob/dingshurun/%E9%A1%B9%E7%9B%AE%E6%8A%A5%E5%91%8A(2).docx)
 
