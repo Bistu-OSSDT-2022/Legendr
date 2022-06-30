@@ -92,6 +92,6 @@
 
 [点此查看KNN运行结果](https://raw.githubusercontent.com/sniffstherose/blog_flv/main/img/202206302328224.png)
 
-[点此查看K-means运行结果](https://raw.githubusercontent.com/sniffstherose/blog_flv/main/img/202206302330601.png)
+[点此查看K-means运行结果](![](https://raw.githubusercontent.com/sniffstherose/blog_flv/main/img/202206302339326.png))
 
 # 感谢各位的支持，期待更多感兴趣的人加入我们🥰
