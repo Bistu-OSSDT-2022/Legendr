@@ -42,7 +42,7 @@
 1. 本项目基于python语言开发，你可能需要配置环境
 
    - python下载：[python](https://www.python.org/)
-    - 可能用到的模块：
+   - 可能用到的模块：
 
 2. 代码中的注意事项：
 
