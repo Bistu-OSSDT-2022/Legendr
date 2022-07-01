@@ -62,6 +62,12 @@
 
 ---
 
+# FAQ
+
+[FAQ](https://github.com/Bistu-OSSDT-2022/Legendr/blob/main/FAQ)
+
+---
+
 # 项目实践：
 
 [欢迎下载项目实践报告](https://github.com/Bistu-OSSDT-2022/Legendr/tree/main/Project%20file/%E9%A1%B9%E7%9B%AE%E6%8A%A5%E5%91%8A)
@@ -81,7 +87,7 @@
 1. 本项目基于python语言开发，你可能需要配置环境
 
    - python下载：[python](https://www.python.org/)
-   
+
    - 为了正常使用，你需要自行下载相应的python模块
 
 2. 代码中的注意事项：
